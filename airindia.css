@@ -5,6 +5,42 @@
 }
 
 
+.box{
+    position: absolute;
+}
 
 
+#parent{
+    position: relative;
+}
+
+#img{
+
+}
+
+.img2{
+    position: absolute;
+    width: 50%;
+    height: 60%;
+    background-color: white;
+    top: 20%;
+    left: 10%;
+}
+
+
+.img3{
+    position: absolute;
+    width: 3%;
+    height: 50%;
+    background-color: white;
+    top: 30%;
+    position: fixed;
+    opacity: 80%;
+}
+
+.icon{
+    width: 65%;
+    padding-left: 25%;
+    padding-top: 60%;
+}
 
